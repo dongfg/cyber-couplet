@@ -11,3 +11,6 @@
 </script>
 <script src="https://cdn.jsdelivr.net/gh/dongfg/cyber-couplet@master/couplet.js"></script>
 ```
+
+## 效果
+![alt text](image.png)
